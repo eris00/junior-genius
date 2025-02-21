@@ -14,4 +14,4 @@ ML - HugginfFace pipeline | DistilBERT model
 
 ##
 
-### ** Development still in progress! **
+### ** Development still in progress... **
