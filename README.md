@@ -3,7 +3,13 @@ JuniorGenius is a web app developed as part of my Master's project in Deep Learn
 
 ## Technologies:
 Client - ReactJS | Tailwind | Material UI
+
+
 Server - FastAPI | Alembic | PostgreSQL | AWS EC2
+
+
 ML - HugginfFace pipeline | DistilBERT model
+
+##
 
 ### ** Development still in progress! **
